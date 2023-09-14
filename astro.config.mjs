@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ianbrdeguzman.github.io',
+  site: 'https://webjoy.org',
   integrations: [mdx(), sitemap()]
 });
